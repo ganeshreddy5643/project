@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../HTML5"
+		},
+		{
+			"path": "../../../vscode for java"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HTML5",
+		"java.debug.settings.onBuildFailureProceed": true
+	}
+}
