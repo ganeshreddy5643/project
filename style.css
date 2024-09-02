@@ -162,7 +162,7 @@ h1{
 }
 
 #Laptop img:hover {
-    content: url(ELECTRONICS/electronics6.jpg);
+    content: url(/ELECTRONICS/electronics6.jpg);
 }
 
 #iphone img:hover {
