@@ -142,43 +142,43 @@ h1{
 }
 
 #jacket img:hover {
-    content: url(/FASHIONS/Fashionh3.avif);
+    content: url(FASHIONS/Fashionh3.avif);
 }
 
 #shoe img:hover {
-    content: url(/FASHIONS/Fashionh2.webp);
+    content: url(FASHIONS/Fashionh2.webp);
 }
 
 #shirt img:hover {
-    content: url(/FASHIONS/Fashionh4.avif);
+    content: url(FASHIONS/Fashionh4.avif);
 }
 
 #electronics img:hover {
-    content: url(/Images/Electronics/l2.webp);
+    content: url(Images/Electronics/l2.webp);
 }
 
 #Smartphone img:hover {
-    content: url(/ELECTRONICS/electronics7.webp);
+    content: url(ELECTRONICS/electronics7.webp);
 }
 
 #Laptop img:hover {
-    content: url(/ELECTRONICS/electronics6.jpg);
+    content: url(ELECTRONICS/electronics6.jpg);
 }
 
 #iphone img:hover {
-    content: url(/ELECTRONICS/electronics5.jpg);
+    content: url(ELECTRONICS/electronics5.jpg);
 }
 
 #Headphones img:hover {
-    content: url(/DEALS/deals5.webp);
+    content: url(DEALS/deals5.webp);
 }
 
 #Smartwatch img:hover {
-    content: url(/DEALS/deals4.webp);
+    content: url(DEALS/deals4.webp);
 }
 
 #washing img:hover {
-    content: url(/DEALS/deals1.webp);
+    content: url(DEALS/deals1.webp);
 }
 
 footer {
